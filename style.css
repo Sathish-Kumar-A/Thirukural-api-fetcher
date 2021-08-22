@@ -94,7 +94,7 @@ small{
 }
 
 
-@media screen and (max-width:420px) {
+@media screen and (max-width:500px) {
     .searchtext{
         font-size: 1.5em;
     }
