@@ -102,6 +102,6 @@ small{
         grid-template-columns: 1fr;
     }
     .kural1,.kural2{
-        font-size: 0.7em;
+        font-size: 1em;
     }
 }
