@@ -42,7 +42,7 @@ function details(result){
 
     //meaning container
     meancontain.innerHTML=`<h5 class="tamil tammean">தமிழ் விளக்கம்: <small>${result.tam_exp}</small></h5>
-    <h5>English Meaning: <small>${result.eng_exp}</small></h5>`
+    <h5 class="english">English Meaning: <small>${result.eng_exp}</small></h5>`
     container.append(container1,meancontain);
 }
 async function previous(){
